@@ -1,5 +1,4 @@
 .vscode
-*.js
 *.js.map
 node_modules
 demo/**/*.js
