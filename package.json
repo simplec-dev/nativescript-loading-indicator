@@ -1,6 +1,6 @@
 {
   "name": "nativescript-loading-indicator-ssi",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "description": "A NativeScript plugin for showing an overlayed loading indicator.",
   "repository": {
     "type": "git",
