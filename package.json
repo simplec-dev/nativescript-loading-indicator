@@ -1,10 +1,10 @@
 {
-  "name": "nativescript-loading-indicator",
+  "name": "nativescript-loading-indicator-ssi",
   "version": "2.3.2",
   "description": "A NativeScript plugin for showing an overlayed loading indicator.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NathanWalker/nativescript-loading-indicator.git"
+    "url": "https://github.com/simplec-dev/nativescript-loading-indicator.git"
   },
   "main": "loading-indicator",
   "typings": "index.d.ts",
@@ -29,9 +29,9 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/NathanWalker/nativescript-loading-indicator/issues"
+    "url": "https://github.com/simplec-dev/nativescript-loading-indicator/issues"
   },
-  "homepage": "https://github.com/NathanWalker/nativescript-loading-indicator",
+  "homepage": "https://github.com/simplec-dev/nativescript-loading-indicator",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
