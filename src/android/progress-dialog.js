@@ -63,7 +63,7 @@ var LoadingIndicator = (function () {
         this._progressDialog = undefined;
     };
     LoadingIndicator.prototype._getContext = function () {
-        return application.android.foregroundActivity;
+        return application.android.currentContext;
     };
     return LoadingIndicator;
 }());
